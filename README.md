@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Luan Alysson
 
-🎯 Estatístico em formação | Cientista de Dados e Desenvolvedor de Soluções em IA | QA e Machine Learning Practitioner
+🎯 Estatístico em formação | Cientista de Dados e Desenvolvedor de Soluções em IA | QA e Machine Learning Engineer
 
 Sou apaixonado por transformar dados em inteligência e automação em resultado.
 Minha trajetória começou na área de Qualidade de Software, onde desenvolvi habilidades sólidas em testes, análise de sistemas e validação de regras de negócio. Hoje, aplico essa base na Ciência de Dados e Inteligência Artificial, criando modelos, agentes e aplicações baseadas em Machine Learning, Deep Learning e Processamento de Linguagem Natural (NLP).
